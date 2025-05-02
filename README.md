@@ -1,7 +1,8 @@
-# The-Modding-Tree
+# (E)XtEnded Modding Tree
 
-An incremental game engine based on The Prestige Tree. It still requires programming knowledge, but it's mostly pretty easy things and copy/pasting.
+Heavily modified version of TMT[https://github.com/Acamaeda/The-Modding-Tree] ( The Modding Tree ).
+It's modified to greatly improve performance on larger scale trees, for comparison to "The Vorona Tree" and add some features while fixing some things in addition.
 
-[Look here for a tutorial on getting started with modding with TMT](docs/tutorials/getting-started.md)
-
-You can look in the [documentation](docs/!general-info.md) for more information on how it all works, or look at the code in layers.js to see what it all looks like.
+| XeMT | TMT  |
+| :--- | ---: |
+| e    |   e  |
