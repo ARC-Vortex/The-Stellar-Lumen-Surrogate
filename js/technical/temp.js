@@ -1,4 +1,4 @@
-var tmp = {}
+﻿var tmp = {}
 var temp = tmp // Proxy for tmp
 var funcs = {}
 var NaNalert = false;

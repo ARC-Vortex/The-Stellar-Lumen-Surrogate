@@ -1,4 +1,4 @@
-function addCommas(s){
+﻿function addCommas(s){
 	if (s.length <= 3) return s
 	let rem = s.length % 3
 	if (rem == 0) rem = 3

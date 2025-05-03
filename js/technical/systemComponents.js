@@ -1,4 +1,4 @@
-var systemComponents = {
+﻿var systemComponents = {
 	'tab-buttons': {
 		props: ['layer', 'data', 'name'],
 		template: `
@@ -143,17 +143,12 @@ var systemComponents = {
         <a class="link" href="http://discord.gg/wwQfgPa" target="_blank" v-bind:style="{'font-size': '16px'}">Main Prestige Tree server</a><br>
 		<br><br>
         Time Played: {{ formatTime(player.timePlayed) }}<br><br>
-        <h3>Hotkeys</h3><br>
-        <Kbd class="hotkey">P</Kbd> for Prestige reset<br>
-        <Kbd class="hotkey">B</Kbd> for Booster reset<br>
-        <Kbd class="hotkey" >N</Kbd> for NG reset<br>
     `
     },
 
     'options-tab': {
           template: `
-		<span>Configure the game accordingly!</span>
-           `
+		<span>Configure the game accordingly!</span>`
         },
 
     'back-button': {

@@ -1,4 +1,4 @@
-// Load files
+﻿// Load files
 
 for (file in modInfo.modFiles) {
     let script = document.createElement("script");

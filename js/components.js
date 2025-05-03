@@ -1,4 +1,4 @@
-var app;
+﻿var app;
 
 function loadVue() {
 	// data = a function returning the content (actually HTML)

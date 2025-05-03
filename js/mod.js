@@ -1,10 +1,9 @@
-let modInfo = {
+﻿let modInfo = {
 	name: "The Stellar Lumen: Surrogate",
 	id: "CTA-TSL-00-00-00-01",
 	author: "kreem | ( citrine_ex )",
 	pointsName: "Points",
 	modFiles: [
-	"misc.js",
 	"tree.js"],
 
 	discordName: "",

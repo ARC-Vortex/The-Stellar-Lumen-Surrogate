@@ -1,4 +1,4 @@
-// I have no fucking idea what those really are but they are needed to make certain notations work
+﻿// I have no fucking idea what those really are but they are needed to make certain notations work
 
 function powExp(n, exp){ // dilate
 	if (n.lt(10)) return n

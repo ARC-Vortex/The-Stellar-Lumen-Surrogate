@@ -1,4 +1,4 @@
-// ************ Save stuff ************
+﻿// ************ Save stuff ************
 function save(force) {
 	NaNcheck(player)
 	if (NaNalert && !force) return

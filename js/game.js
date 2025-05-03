@@ -1,4 +1,4 @@
-var player;
+﻿var player;
 var needCanvasUpdate = true;
 
 // Don't change this

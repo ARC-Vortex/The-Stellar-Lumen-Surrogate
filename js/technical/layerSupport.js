@@ -1,4 +1,4 @@
-var layers = {}
+﻿var layers = {}
 
 const decimalZero = new Decimal(0)
 const decimalOne = new Decimal(1)

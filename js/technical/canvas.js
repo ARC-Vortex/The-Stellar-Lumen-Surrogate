@@ -1,4 +1,4 @@
-var canvas;
+﻿var canvas;
 var ctx;
 
 window.addEventListener("resize", (_=>resizeCanvas()));

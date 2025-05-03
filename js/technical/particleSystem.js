@@ -1,4 +1,4 @@
-var particles = {};
+﻿var particles = {};
 var particleID = 0;
 var mouseX = 0;
 var mouseY = 0;

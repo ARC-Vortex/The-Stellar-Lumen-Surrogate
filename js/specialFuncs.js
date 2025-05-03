@@ -1,4 +1,4 @@
-function displayPluses(count) {
+﻿function displayPluses(count) {
   let cnt = new Decimal(count)
   if (cnt.lte(0)) {
     return '';

@@ -1,4 +1,4 @@
-function prestigeButtonText(layer) {
+﻿function prestigeButtonText(layer) {
 	if (layers[layer].prestigeButtonText !== undefined)
 		return run(layers[layer].prestigeButtonText(), layers[layer])
 	if (tmp[layer].type == "normal")

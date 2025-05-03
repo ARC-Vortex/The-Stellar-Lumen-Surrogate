@@ -1,4 +1,4 @@
-const cacheName = "The-Stellar-Tree";
+﻿const cacheName = "The-Stellar-Tree";
 
 self.addEventListener("fetch", event => {
     event.respondWith((async () => {
