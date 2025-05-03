@@ -6,5 +6,5 @@ class CustomHandler(SimpleHTTPRequestHandler):
         super().end_headers()
 
 server = HTTPServer(('localhost', 8000), CustomHandler)
-print("Serving at http://localhost:8000")
+print("lh at: http://localhost:8000")
 server.serve_forever()
