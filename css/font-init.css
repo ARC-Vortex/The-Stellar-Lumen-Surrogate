@@ -1,0 +1,19 @@
+@font-face {
+    font-family: SansRegular;
+    src: url("../font-folder/SansRegular.otf");
+}
+
+@font-face {
+    font-family: SansBold;
+    src: url("../font-folder/SansBold.otf");
+}
+
+@font-face {
+    font-family: MonoRegular;
+    src: url("../font-folder/MonoRegular.otf");
+}
+
+@font-face {
+    font-family: MonoBold;
+    src: url("../font-folder/MonoBold.otf");
+}
