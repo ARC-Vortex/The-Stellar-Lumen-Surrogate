@@ -1,15 +1,10 @@
 let modInfo = {
-	name: "The NG ( Infinite ) Tree",
-	id: "cta3-NG",
-	author: "komputer cast | ( citrine_ex )",
+	name: "The Stellar Lumen: Surrogate",
+	id: "CTA-TSL-00-00-00-01",
+	author: "kreem | ( citrine_ex )",
 	pointsName: "Points",
 	modFiles: [
 	"misc.js",
-	"Set One/NewGame.js",
-	"Set One/Prestige.js",
-	"Set One/Booster.js",
-	"Set One/Generator.js",
-	"Set One/Accelerant.js",
 	"tree.js"],
 
 	discordName: "",
